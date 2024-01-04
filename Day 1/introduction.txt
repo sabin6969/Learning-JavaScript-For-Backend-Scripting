@@ -1,0 +1,12 @@
+JavaScipt is High level, General Purpose, Interpreted and Dynamically typed programming language.
+
+It was developed in 1995.
+
+It was developed by Brendan Eich
+
+
+JavaScript was developed for client side scripting in websites.
+
+
+
+JavaScript Supports multiple programming paradigms
